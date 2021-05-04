@@ -1,0 +1,17 @@
+{
+    "name": "akhmads/hello",
+    "description": "A simple hello composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akhmad",
+            "email": "akhmadshaleh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"akhmads\\Hello\\": "src/"}
+    },
+    "require": {}
+}
