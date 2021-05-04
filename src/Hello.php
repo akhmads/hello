@@ -1,6 +1,6 @@
 <?php 
 
-namespace akhmads\Hello;
+namespace Hello;
 
 class Hello
 {
